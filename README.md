@@ -14,8 +14,8 @@ An end-to-end data analytics project analyzing customer trends, product revenue,
 
 ## 📊 Dashboards & Visualizations
 
-### 1. Power BI Sales Dashboard
-![Power BI Dashboard](Power%20BI%20Dashboard.png)
+### 1. Excel Executive Dashboard
+![Excel Dashboard](Excel%20Dashboard.png)
 
 ---
 
@@ -24,8 +24,8 @@ An end-to-end data analytics project analyzing customer trends, product revenue,
 
 ---
 
-### 3. Excel Executive Dashboard
-![Excel Dashboard](Excel%20Dashboard.png)
+### 3. Power BI Sales Dashboard
+![Power BI Dashboard](Power%20BI%20Dashboard.png)
 
 ---
 
