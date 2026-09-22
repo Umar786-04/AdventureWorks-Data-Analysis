@@ -64,8 +64,8 @@ The following project requirements and business tasks were completed:
 
 ## 📊 Dashboards & Visual Deliverables
 
-### 1. Power BI Executive Dashboard
-![Power BI Dashboard](Power%20BI%20Dashboard.png)
+### 1. Excel Executive Dashboard
+![Excel Dashboard](Excel%20Dashboard.png)
 
 ---
 
@@ -74,8 +74,8 @@ The following project requirements and business tasks were completed:
 
 ---
 
-### 3. Excel Executive Dashboard
-![Excel Dashboard](Excel%20Dashboard.png)
+### 3. Power BI Executive Dashboard
+![Power BI Dashboard](Power%20BI%20Dashboard.png)
 
 ---
 
