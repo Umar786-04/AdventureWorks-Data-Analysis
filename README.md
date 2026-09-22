@@ -42,3 +42,12 @@ An end-to-end data analytics project analyzing customer trends, product revenue,
 * `Adventure Works Dataset.xlsx` — Source dataset
 * `AdventureWorks_Analysis.pbix` — Power BI report file
 * `AdventureWorks_Analysis.twbx` — Tableau packaged workbook
+
+## 📥 Data Source & Downloads
+You can view or directly download the project files and raw dataset here:
+
+* 📊 **Raw Dataset:** [Download Adventure Works Dataset.xlsx](Adventure%20Works%20Dataset.xlsx?raw=true)
+* 📑 **Excel Model:** [Download AdventureWorks_Analysis.xlsx](AdventureWorks_Analysis.xlsx?raw=true)
+* 📈 **Power BI Report:** [Download AdventureWorks_Analysis.pbix](AdventureWorks_Analysis.pbix?raw=true)
+* 📉 **Tableau Workbook:** [Download AdventureWorks_Analysis.twbx](AdventureWorks_Analysis.twbx?raw=true)
+* 🗄️ **SQL Script:** [View / Download SQL Queries](AdventureWorks_Analysis.sql)
